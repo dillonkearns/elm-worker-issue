@@ -1,0 +1,15 @@
+{
+  "name": "elm19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "elm-format": "^0.8.0-alpha-elm019rc1-rc2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "elm19 make Main.elm --output=elm.js && ./main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
